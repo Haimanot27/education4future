@@ -1,0 +1,9 @@
+{
+  "name": "Education4Future",
+  "short_name": "Education4Future",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A platform that creates an alternative to child labour by incentivising families to send their children to school",
+  "background_color": "#ffffff"
+}

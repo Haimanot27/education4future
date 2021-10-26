@@ -9,7 +9,7 @@ Parent - Recieve donation once the criteria is fulfilled via Valora app.
 
 # Tech Stack
 Web based platform by using React Dapp Boilerplate.
-Front-end - Javascript,
+Front-End - Javascript,
 Framework  - React,
 Web3.js,
 Wallet - Metamask + Valora,

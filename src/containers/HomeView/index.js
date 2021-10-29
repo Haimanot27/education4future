@@ -10,11 +10,11 @@ class HomeView extends Component {
        
       <table width="100%" border="1" cellSpacing="0">
         <tr>
-          <td>School</td>
-          <td>Region</td>
-          <td>#Students</td>
-          <td>Attendance Rate</td>
-          <td>Paid Out</td>
+          <td><th>School</th></td>
+          <td><th>Region</th></td>
+          <td><th>#Students</th></td>
+          <td><th>Attendance Rate</th></td>
+          <td><th>Paid Out</th></td>
         </tr>
         <tr>
           <td>Alpha Rehoboth</td>
@@ -47,8 +47,7 @@ class HomeView extends Component {
       </table>
       </div>
     )
+  
+    }
   }
-
-
-
-//export default HomeView
+export default HomeView
